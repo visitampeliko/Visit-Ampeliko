@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Visit Ampeliko</title><link>https://visitampeliko.github.io/Visit-Ampeliko/</link><description>Recent content on Visit Ampeliko</description><generator>Hugo</generator><language>gr-gr</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 -0400</lastBuildDate><atom:link href="https://visitampeliko.github.io/Visit-Ampeliko/index.xml" rel="self" type="application/rss+xml"/><item><title>Ξενώνας Αμπελικού</title><link>https://visitampeliko.github.io/Visit-Ampeliko/blog/hostel/</link><pubDate>Thu, 01 Aug 2024 00:00:00 -0400</pubDate><guid>https://visitampeliko.github.io/Visit-Ampeliko/blog/hostel/</guid><description>&lt;h3 id="άνοιξε-ξανά-ο-ξενώνας-φιλοξενίας-του-χωριού-μας">Άνοιξε ξανά ο ξενώνας Φιλοξενίας του χωριού μας.&lt;/h3>
-&lt;p>Ελάτε να μείνετε στο παραδοσιακό χωριό μας, με το μαγευτικό τοπίο παρθενικής ομορφιάς, μέσα στο καταπράσινο δροσερό περιβάλλον του Αμπελικού εκεί που το πεύκο σμίγει με την ελιά.&lt;/p></description></item><item><title>Η ομάδα του Visit Ampeliko</title><link>https://visitampeliko.github.io/Visit-Ampeliko/author/visti-ampeliko/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://visitampeliko.github.io/Visit-Ampeliko/author/visti-ampeliko/</guid><description>&lt;p>Το Visit Ampeliko αποτελεί μια προσπάθεια προβολής και ανάδειξης του χωριού Αμπελικό&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visit Ampeliko</title>
+    <link>https://visitampeliko.github.io/Visit-Ampeliko/</link>
+    <description>Recent content on Visit Ampeliko</description>
+    <generator>Hugo</generator>
+    <language>gr-gr</language>
+    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 -0400</lastBuildDate>
+    <atom:link href="https://visitampeliko.github.io/Visit-Ampeliko/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ξενώνας Αμπελικού</title>
+      <link>https://visitampeliko.github.io/Visit-Ampeliko/blog/hostel/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 -0400</pubDate>
+      <guid>https://visitampeliko.github.io/Visit-Ampeliko/blog/hostel/</guid>
+      <description>&lt;h3 id=&#34;άνοιξε-ξανά-ο-ξενώνας-φιλοξενίας-του-χωριού-μας&#34;&gt;Άνοιξε ξανά ο ξενώνας Φιλοξενίας του χωριού μας.&lt;/h3&gt;&#xA;&lt;p&gt;Ελάτε να μείνετε στο παραδοσιακό χωριό μας,  με το μαγευτικό τοπίο παρθενικής ομορφιάς, μέσα στο καταπράσινο  δροσερό περιβάλλον του Αμπελικού εκεί που το πεύκο σμίγει με την ελιά.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Η ομάδα του Visit Ampeliko</title>
+      <link>https://visitampeliko.github.io/Visit-Ampeliko/author/visti-ampeliko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://visitampeliko.github.io/Visit-Ampeliko/author/visti-ampeliko/</guid>
+      <description>&lt;p&gt;Το Visit Ampeliko αποτελεί μια προσπάθεια προβολής και ανάδειξης του χωριού Αμπελικό&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

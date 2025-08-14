@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><sitemap><loc>https://visitampeliko.github.io/Visit-Ampeliko/gr/sitemap.xml</loc><lastmod>2024-08-01T00:00:00-04:00</lastmod></sitemap><sitemap><loc>https://visitampeliko.github.io/Visit-Ampeliko/en/sitemap.xml</loc><lastmod>2018-09-12T14:51:12+06:00</lastmod></sitemap></sitemapindex>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://visitampeliko.github.io/Visit-Ampeliko/gr/sitemap.xml</loc>
+    
+      <lastmod>2024-08-01T00:00:00-04:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://visitampeliko.github.io/Visit-Ampeliko/en/sitemap.xml</loc>
+    
+      <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
