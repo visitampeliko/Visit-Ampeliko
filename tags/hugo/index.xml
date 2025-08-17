@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Visit Ampeliko</title>
-    <link>https://visitampeliko.gr/</link>
-    <description>Recent content on Visit Ampeliko</description>
+    <title>Hugo on Visit Ampeliko</title>
+    <link>https://visitampeliko.gr/tags/hugo/</link>
+    <description>Recent content in Hugo on Visit Ampeliko</description>
     <generator>Hugo</generator>
     <language>gr-gr</language>
-    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 -0400</lastBuildDate>
-    <atom:link href="https://visitampeliko.gr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Aug 2025 00:00:00 -0400</lastBuildDate>
+    <atom:link href="https://visitampeliko.gr/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hooray</title>
+      <link>https://visitampeliko.gr/blog/2/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 -0400</pubDate>
+      <guid>https://visitampeliko.gr/blog/2/</guid>
+      <description>&lt;h3 id=&#34;τεστ&#34;&gt;τεστ.&lt;/h3&gt;&#xA;&lt;h3 id=&#34;τεστ-1&#34;&gt;τεστ&lt;/h3&gt;</description>
+    </item>
     <item>
       <title>Ξενώνας Αμπελικού</title>
       <link>https://visitampeliko.gr/blog/hostel/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 -0400</pubDate>
       <guid>https://visitampeliko.gr/blog/hostel/</guid>
       <description>&lt;h3 id=&#34;άνοιξε-ξανά-ο-ξενώνας-φιλοξενίας-του-χωριού-μας&#34;&gt;Άνοιξε ξανά ο ξενώνας Φιλοξενίας του χωριού μας.&lt;/h3&gt;&#xA;&lt;p&gt;Ελάτε να μείνετε στο παραδοσιακό χωριό μας,  με το μαγευτικό τοπίο παρθενικής ομορφιάς, μέσα στο καταπράσινο  δροσερό περιβάλλον του Αμπελικού εκεί που το πεύκο σμίγει με την ελιά.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Η ομάδα του Visit Ampeliko</title>
-      <link>https://visitampeliko.gr/author/visti-ampeliko/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://visitampeliko.gr/author/visti-ampeliko/</guid>
-      <description>&lt;p&gt;Το Visit Ampeliko αποτελεί μια προσπάθεια προβολής και ανάδειξης του χωριού Αμπελικό&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
